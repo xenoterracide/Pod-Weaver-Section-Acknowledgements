@@ -17,9 +17,9 @@ use Pod::Elemental::Element::Pod5::Verbatim;
 sub weave_section {
 	my ( $self, $document, $input ) = @_;
 
-	return unless $input->{contributors};
+	return unless $input->{acknowledgements}{contributor};
 
-	my $multiple_contributors = $input->{contributors}->length > 1;
+	my $multiple_contributors = $input->{contributor}->length > 1;
 
 	my $contributors
 		= $input->{contributors}->map( sub {

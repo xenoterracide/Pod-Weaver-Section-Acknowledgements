@@ -9,7 +9,7 @@ use Moose;
 use namespace::autoclean;
 with 'Pod::Weaver::Role::Section';
 
-use Moose::AutoBox;
+use Moose::Autobox;
 
 use Pod::Elemental::Element::Nested;
 use Pod::Elemental::Element::Pod5::Verbatim;

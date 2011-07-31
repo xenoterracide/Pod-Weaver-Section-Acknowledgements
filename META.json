@@ -27,7 +27,7 @@
       "runtime" : {
          "requires" : {
             "Moose" : 0,
-            "Moose::AutoBox" : 0,
+            "Moose::Autobox" : 0,
             "Pod::Elemental::Element::Nested" : 0,
             "Pod::Elemental::Element::Pod5::Verbatim" : 0,
             "Pod::Weaver::Role::Section" : 0,

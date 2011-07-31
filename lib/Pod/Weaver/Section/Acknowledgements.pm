@@ -3,7 +3,7 @@ use 5.008;
 use strict;
 use warnings;
 BEGIN {
-	# VERSION
+	our $VERSION = '0.1.0'; # VERSION
 }
 use Moose;
 use namespace::autoclean;
@@ -57,3 +57,29 @@ sub weave_section {
 1;
 
 # ABSTRACT: automatically add an ACKNOWLEDGMENTS section to pod
+
+__END__
+=pod
+
+=head1 NAME
+
+Pod::Weaver::Section::Acknowledgements - automatically add an ACKNOWLEDGMENTS section to pod
+
+=head1 VERSION
+
+version 0.1.0
+
+=head1 AUTHOR
+
+Caleb Cushing <xenoterracide@gmail.com>
+
+=head1 COPYRIGHT AND LICENSE
+
+This software is Copyright (c) 2011 by Caleb Cushing.
+
+This is free software, licensed under:
+
+  The Artistic License 2.0 (GPL Compatible)
+
+=cut
+

@@ -8,4 +8,4 @@ BEGIN {
 
 1;
 
-# ABSTRACT: Pod::Weaver::Section::Acknowledgements
+# ABSTRACT: automatically add an ACKNOWLEDGMENTS section to pod

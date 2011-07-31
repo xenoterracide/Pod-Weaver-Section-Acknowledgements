@@ -42,7 +42,7 @@ sub weave_section {
 			Pod::Elemental::Element::Pod5::Command->new({
 				command  => 'back', content => '',
 			}),
-		] if $multiple_authors;
+		] if $multiple_contributors;
 
 	$document->children->push(
 		Pod::Elemental::Element::Nested->new({

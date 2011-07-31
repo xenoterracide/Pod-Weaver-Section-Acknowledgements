@@ -52,6 +52,7 @@ sub weave_section {
 			children => $contributors,
 		}),
 	);
+	return 1;
 }
 
 1;

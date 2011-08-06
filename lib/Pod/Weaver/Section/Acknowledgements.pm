@@ -80,13 +80,9 @@ Type: Str
 
 This attribute is required.
 
-This documentation was automatically generated.
-
 =head2 logger
 
 Reader: logger
-
-This documentation was automatically generated.
 
 =head2 weaver
 
@@ -96,51 +92,35 @@ Type: Pod::Weaver
 
 This attribute is required.
 
-This documentation was automatically generated.
-
 =head1 METHODS
 
 =head2 plugin_name
 
 Method originates in Pod::Weaver::Section::Acknowledgements.
 
-This documentation was automaticaly generated.
-
 =head2 log_fatal
 
 Method originates in Pod::Weaver::Section::Acknowledgements.
-
-This documentation was automaticaly generated.
 
 =head2 log
 
 Method originates in Pod::Weaver::Section::Acknowledgements.
 
-This documentation was automaticaly generated.
-
 =head2 logger
 
 Method originates in Pod::Weaver::Section::Acknowledgements.
-
-This documentation was automaticaly generated.
 
 =head2 weave_section
 
 Method originates in Pod::Weaver::Section::Acknowledgements.
 
-This documentation was automaticaly generated.
-
 =head2 weaver
 
 Method originates in Pod::Weaver::Section::Acknowledgements.
 
-This documentation was automaticaly generated.
-
 =head2 log_debug
 
 Method originates in Pod::Weaver::Section::Acknowledgements.
-
-This documentation was automaticaly generated.
 
 =head1 BUGS
 

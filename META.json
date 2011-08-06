@@ -47,12 +47,12 @@
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "http://github.com/xenoterracide/dist/issues"
+         "web" : "https://github.com/xenoterracide/Pod-Weaver-Section-Acknowledgements/issues"
       },
       "repository" : {
          "type" : "git",
-         "url" : "git://github.com/xenoterracide/dist.git",
-         "web" : "http://github.com/xenoterracide/dist"
+         "url" : "git://github.com/xenoterracide/Pod-Weaver-Section-Acknowledgements.git",
+         "web" : "https://github.com/xenoterracide/Pod-Weaver-Section-Acknowledgements"
       }
    },
    "version" : "0.1.0"

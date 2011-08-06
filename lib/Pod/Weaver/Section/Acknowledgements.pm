@@ -73,7 +73,7 @@ version 0.1.0
 =head1 BUGS
 
 Please report any bugs or feature requests on the bugtracker website
-http://github.com/xenoterracide/dist/issues
+https://github.com/xenoterracide/Pod-Weaver-Section-Acknowledgements/issues
 
 When submitting a bug or request, please include a test-file or a
 patch to an existing test-file that illustrates the bug or desired

@@ -28,6 +28,6 @@ requires:
   namespace::autoclean: 0
   perl: 5.008
 resources:
-  bugtracker: http://github.com/xenoterracide/dist/issues
-  repository: git://github.com/xenoterracide/dist.git
+  bugtracker: https://github.com/xenoterracide/Pod-Weaver-Section-Acknowledgements/issues
+  repository: git://github.com/xenoterracide/Pod-Weaver-Section-Acknowledgements.git
 version: 0.1.0

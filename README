@@ -5,6 +5,66 @@ NAME
 VERSION
     version 0.1.0
 
+ATTRIBUTES
+  plugin_name
+    Reader: plugin_name
+
+    Type: Str
+
+    This attribute is required.
+
+    This documentation was automatically generated.
+
+  logger
+    Reader: logger
+
+    This documentation was automatically generated.
+
+  weaver
+    Reader: weaver
+
+    Type: Pod::Weaver
+
+    This attribute is required.
+
+    This documentation was automatically generated.
+
+METHODS
+  plugin_name
+    Method originates in Pod::Weaver::Section::Acknowledgements.
+
+    This documentation was automaticaly generated.
+
+  log_fatal
+    Method originates in Pod::Weaver::Section::Acknowledgements.
+
+    This documentation was automaticaly generated.
+
+  log
+    Method originates in Pod::Weaver::Section::Acknowledgements.
+
+    This documentation was automaticaly generated.
+
+  logger
+    Method originates in Pod::Weaver::Section::Acknowledgements.
+
+    This documentation was automaticaly generated.
+
+  weave_section
+    Method originates in Pod::Weaver::Section::Acknowledgements.
+
+    This documentation was automaticaly generated.
+
+  weaver
+    Method originates in Pod::Weaver::Section::Acknowledgements.
+
+    This documentation was automaticaly generated.
+
+  log_debug
+    Method originates in Pod::Weaver::Section::Acknowledgements.
+
+    This documentation was automaticaly generated.
+
 BUGS
     Please report any bugs or feature requests on the bugtracker website
     https://github.com/xenoterracide/Pod-Weaver-Section-Acknowledgements/iss
